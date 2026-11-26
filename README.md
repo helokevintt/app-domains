@@ -17,3 +17,10 @@
 | Monzo | [apps/monzo.md](apps/monzo.md) | [apps/monzo.list](apps/monzo.list) | 2026-11-26 |
 | Zopa Bank | [apps/zopa.md](apps/zopa.md) | [apps/zopa.list](apps/zopa.list) | 2026-11-26 |
 | Altery | [apps/altery.md](apps/altery.md) | [apps/altery.list](apps/altery.list) | 2026-11-26 |
+| Meta AI | [apps/meta-ai.md](apps/meta-ai.md) | [apps/meta-ai.list](apps/meta-ai.list) | 2026-11-26 |
+| Facebook | [apps/facebook.md](apps/facebook.md) | [apps/facebook.list](apps/facebook.list) | 2026-11-26 |
+| WeChat | [apps/wechat.md](apps/wechat.md) | [apps/wechat.list](apps/wechat.list) | 2026-11-26 |
+| Claude | [apps/claude.md](apps/claude.md) | [apps/claude.list](apps/claude.list) | 2026-11-26 |
+| ChatGPT | [apps/chatgpt.md](apps/chatgpt.md) | [apps/chatgpt.list](apps/chatgpt.list) | 2026-11-26 |
+| X | [apps/x.md](apps/x.md) | [apps/x.list](apps/x.list) | 2026-11-26 |
+| PayPal | [apps/paypal.md](apps/paypal.md) | [apps/paypal.list](apps/paypal.list) | 2026-11-26 |

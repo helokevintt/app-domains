@@ -1,0 +1,28 @@
+# WeChat — 官方域名（核实日期 2026-11-26）
+
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,wechatlegal.net
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weixinsxy.com
+DOMAIN-SUFFIX,wechatos.net
+DOMAIN-SUFFIX,wxapp.tc.qq.com
+
+# 微信支付
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,wechatpay.com
+DOMAIN-SUFFIX,wechatpay.cn
+DOMAIN-SUFFIX,wechatpay.com.hk
+DOMAIN-SUFFIX,wxpayglobal.com
+DOMAIN-SUFFIX,tenpayglobal.com
+DOMAIN-SUFFIX,tenpaygo.com
+
+# 图片 CDN（与 QQ 共用；微信头像、公众号图片走 wx.qlogo.cn、mmbiz.qpic.cn）
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+
+# 微信安全中心
+DOMAIN,weixin110.qq.com
