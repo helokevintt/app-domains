@@ -14,3 +14,4 @@
 | 应用 | 文件 | 核实日期 |
 | --- | --- | --- |
 | Monzo | [apps/monzo.md](apps/monzo.md) | 2026-11-26 |
+| Zopa Bank | [apps/zopa.md](apps/zopa.md) | 2026-11-26 |
