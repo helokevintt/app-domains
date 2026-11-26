@@ -15,3 +15,4 @@
 | --- | --- | --- |
 | Monzo | [apps/monzo.md](apps/monzo.md) | 2026-11-26 |
 | Zopa Bank | [apps/zopa.md](apps/zopa.md) | 2026-11-26 |
+| Altery | [apps/altery.md](apps/altery.md) | 2026-11-26 |
